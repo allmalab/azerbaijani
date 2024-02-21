@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "azerbaijani"
-version = "0.0.6"
+version = "0.1.0"
 authors = [
   { name="Jafar Isbarov", email="cefer.isbarov@gmail.com" },
 ]
@@ -19,4 +19,4 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/ceferisbarov/azerbaijani"
-Issues = "https://github.com/ceferisbarov/azerbaijani"
+Issues = "https://github.com/ceferisbarov/azerbaijani/issues"
